@@ -9,3 +9,4 @@ Person2: Sharmisha Yelapati Added a new column status CHAR(1)
 Person 3: Rajitha Yandapalli
 Added New column 'Email' to the existing sql file
 
+Person 4: Vasanthi Ponnekanti Added a new column phone varchar(12)
